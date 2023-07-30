@@ -46,7 +46,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `https://github.com/v1us1885/gitlab-hw/commit/2b03d15788e65389a4d5e2f70b7593776ca27547`
+1. `https://github.com/v1us1885/gitlab-hw/blob/master/.gitignore`
  
 
 ```
